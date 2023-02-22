@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OlaMundoLTPM</string>
+    <string name="hello_world">Olá Mundo!</string>
+    <string name="meu_segundo_ola_mundo">Meu segundo ola mundo</string>
+    <string name="button">Button</string>
+</resources>
